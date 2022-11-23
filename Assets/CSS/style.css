@@ -6,7 +6,7 @@
 }
 body{
     background-color: hsl(207, 33%, 95%);
-    font-family: Barlow Condensed;
+    font-family: sans-serif, Condensed;
 }
 .navbar{
     display: flex;
@@ -56,7 +56,7 @@ button{
     border-radius: 5px;
 
 }
-.buttom{
+/* .buttom{
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
@@ -64,4 +64,4 @@ button{
     
 
 
-}
+} */
